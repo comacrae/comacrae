@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @comacrae
 - 👀 I’m interested in ...
-    NLP
-    Software-Assisted Critical Analysis 
-    Big Data
+  
+  NLP
+   
+   Software-Assisted Critical Analysis 
+   
+   Big Data
+    
     Website Development
 - 🌱 I’m currently learning ...
   

@@ -1,24 +1,25 @@
 - 👋 Hi, I’m @comacrae
+
 - 👀 I’m interested in ...
   
-  NLP
+      NLP
    
-  Machine Learning
+      Machine Learning
   
-  Data Science
+      Data Science
   
-  Tiny ML 
+      Tiny ML 
   
   
 - 🌱 I’m currently learning ...
 
-  Swift for iOS apps
+      Swift for iOS apps
   
-  Network Administration/Security
+      Network Administration/Security
   
-  Theory of Computation
+      Theory of Computation
   
-  HuggingFace/PyTorch/FARM-Haystack Frameworks 
+      HuggingFace/PyTorch/FARM-Haystack Frameworks 
     
 - 💞️ I’m looking to collaborate on ...
 

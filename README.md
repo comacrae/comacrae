@@ -3,26 +3,22 @@
   
   NLP
    
-   Software-Assisted Critical Analysis 
-   
-   Big Data
-    
-    Website Development
-- 🌱 I’m currently learning ...
+  Machine Learning
   
-  SQL
-   
-   Python applied to:
-    
-        Cryptography
-        
-        SQL and Website Creation via SQLite3 and Flask
-        Parallel Programming
-        
-    Operating System Concepts in Unix (Ubuntu distro)
-    
-    Analysis of Complexity of Algorithms
-    
+  Data Science
+  
+  Tiny ML 
+  
+  
+- 🌱 I’m currently learning ...
+
+  Swift for iOS apps
+  
+  Network Administration/Security
+  
+  Theory of Computation
+  
+  HuggingFace/PyTorch/FARM-Haystack Frameworks 
     
 - 💞️ I’m looking to collaborate on ...
 
